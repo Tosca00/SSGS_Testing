@@ -32,4 +32,7 @@ public class Cerchio extends Forma {
     private double extracted() {
         return 2*raggio*Math.PI;
     }
+
+    
+
 }
